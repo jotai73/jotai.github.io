@@ -1,0 +1,31 @@
+<style>
+  body {
+  padding-top: 80px;
+  text-align: center;
+  font-family: monaco, monospace;
+  background-color: #2C2730;
+  background-size: cover;
+}
+h1, h2 {
+  display: inline-block;
+  background: #2C2730;
+}
+h1 {
+  font-size: 30px;
+  color: #FEFEFF;
+}
+h2 {
+  font-size: 20px;
+  color: #523862;
+}
+
+h3 {
+  font-size: 15px;
+  color: #5D5D5D;
+}
+
+span {
+  background: #523862;
+}
+
+</style>
