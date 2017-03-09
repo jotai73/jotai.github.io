@@ -1,0 +1,35 @@
+body {
+  padding-top: 80px;
+  text-align: center;
+  font-family: monaco, monospace;
+  background-color:#201D27;
+}
+
+h1, h2 {
+  background: #2C1D4F;
+}
+h1 {
+  font-size: 30px;
+  color: #865DE9;
+}
+h2 {
+  font-size: 20px;
+  color: #999999;
+}
+span {
+  background: #000000;
+}
+p {
+  font-size: 10px;
+  color: white;
+}
+table {
+  border-collapse: separate;
+    width: 100%;
+}
+tr {
+  text-align: left
+}
+td {
+  column-width: 300px;
+}
