@@ -1,0 +1,4 @@
+baseURL = "music.kittenbucket.com"
+languageCode = "en-us"
+title = "music.kittenbucket"
+theme = "ananke"
